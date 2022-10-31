@@ -1,0 +1,7 @@
+{
+	"username": "hdbcf",
+	"password": "hdbcf",
+	"clusterUsername": "hdbcf",
+	"clusterPassword": "hdbcf",
+	"carbonSdkUrl": "http://host.docker.internal:8080"
+}

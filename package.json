@@ -1,0 +1,16 @@
+{
+	"name": "hdb-cf-green",
+	"version": "1.0.0",
+	"description": "A Green API Cache using HarperDB + Carbon Aware API",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"type": "module",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.27.2"
+	}
+}
